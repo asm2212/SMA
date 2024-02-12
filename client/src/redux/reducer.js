@@ -10,4 +10,4 @@ const rootReducer = combineReducers({
   posts: postSlice,
 });
 
-export default rootReducer; 
+export  {rootReducer}; 

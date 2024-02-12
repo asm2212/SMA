@@ -12,6 +12,7 @@ const postSlice = createSlice({
       state.posts = action.payload;
     },
   },
+  
 });
 
 export default postSlice.reducer;
